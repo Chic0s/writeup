@@ -1,0 +1,31 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Chic0s
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: write-up
+      name: Write-Up
+      url: /write-up/
+      weight: 10
+    - identifier: about-me
+      name: About Me
+      url: /about-me/
+      weight: 10
+
+params:
+    profileMode:
+        defaultTheme: dark
+        enabled: true
+        title: Chic0s
+        subtitle: "IT Studient loving code and pentest"
+        imageUrl: https://avatars.githubusercontent.com/u/96829109?v=4
+        imageTitle: Chic0s
+        imageWidth: 120 
+        imageHeight: 120
+    socialIcons: 
+        - name: github
+          url: "https://github.com/Chic0s"
+        - name: root-me
+          url: "https://www.root-me.org/Chic0s"
