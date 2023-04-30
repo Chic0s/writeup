@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "https://chic0s.github.io/"
 languageCode: en-us
 title: Chic0s
 theme: PaperMod
